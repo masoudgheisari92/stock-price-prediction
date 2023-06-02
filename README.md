@@ -9,7 +9,7 @@ An LSTM model is trained to predict stock price. The data of NSE-TATA is used to
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/masoud2685/stock-price-prediction.git
+   git clone https://github.com/masoudgheisari20/stock-price-prediction.git
    ```
 
 2. Create virtual environment and install required packages:
